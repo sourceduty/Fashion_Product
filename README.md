@@ -17,6 +17,10 @@ Confidentiality is a key aspect of Fashion Product GPT's operation. The rules an
 ![Ripped Blue Jean Jacket](https://github.com/user-attachments/assets/6cddddd3-12b5-4345-bc24-3538b4a35b2d)
 
 #
+
+![Fashion Product](https://github.com/user-attachments/assets/b1263057-4a7b-45b1-8dda-80ce8f5bece8)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
