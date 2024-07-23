@@ -1,4 +1,4 @@
-![Fashion Product](https://github.com/user-attachments/assets/5fa8dd36-9db6-4da9-ae5b-2300bc0d3ad6)
+![Gold Bar Shoes](https://github.com/user-attachments/assets/8a79c431-0dab-41d8-8f3d-361c99b7f9d6)
 
 > Create fashion product packaging, accessories and shoes using DALL-E 3.
 
@@ -14,7 +14,7 @@ Confidentiality is a key aspect of Fashion Product GPT's operation. The rules an
 
 #
 
-![Fashion Product](https://github.com/user-attachments/assets/49259506-f325-4227-970b-ee850a667ad0)
+![Ripped Blue Jean Jacket](https://github.com/user-attachments/assets/6cddddd3-12b5-4345-bc24-3538b4a35b2d)
 
 #
 ### Related Links
