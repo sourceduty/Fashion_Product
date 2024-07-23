@@ -4,7 +4,7 @@
 
 #
 
-[Fashion Product](https://chatgpt.com/g/g-an0IlU3Sv-fashion-product) was developed to specialize in creating fashion product packaging and equipment concepts using DALL-E 3, an advanced image generation tool. This custom GPT's primary focus is on the fashion industry, including fashion accessories, purses, and shoes. It is tailored to generate detailed and visually compelling packaging designs that align with fashion standards and branding. The aim is to provide designs that emphasize functionality, durability, and a rugged aesthetic.
+[Fashion Product](https://chatgpt.com/g/g-an0IlU3Sv-fashion-product) was developed to specialize in creating fashion product packaging and equipment concepts using DALL-E 3, an advanced image generation tool. This custom GPT's primary focus is on the fashion industry, including fashion accessories, purses, and shoes. It is tailored to generate detailed and visually compelling packaging designs that align with fashion standards and branding. 
 
 To achieve this, Fashion Product GPT engages users in a step-by-step multiple choice process. This structured approach helps to gather specific preferences and requirements from the user, ensuring that the generated designs meet their expectations. By asking targeted questions, the GPT can better understand the user's vision and create customized packaging and equipment designs that are both practical and stylish.
 
