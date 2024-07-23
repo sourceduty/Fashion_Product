@@ -24,7 +24,7 @@ Confidentiality is a key aspect of Fashion Product GPT's operation. The rules an
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
-<be>
+<br>
 [Sports Product](https://github.com/sourceduty/Sports_Product)
 <br>
 [Movie Product](https://chatgpt.com/g/g-G6XGhh4Ph-movie-product)
@@ -34,6 +34,8 @@ Confidentiality is a key aspect of Fashion Product GPT's operation. The rules an
 [History Product](https://github.com/sourceduty/History_Product)
 <br>
 [Military Product](https://github.com/sourceduty/Military_Product)
+<br>
+[Product Design](https://github.com/sourceduty/Product_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
