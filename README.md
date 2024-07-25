@@ -36,6 +36,8 @@ Confidentiality is a key aspect of Fashion Product GPT's operation. The rules an
 [Military Product](https://github.com/sourceduty/Military_Product)
 <br>
 [Product Design](https://github.com/sourceduty/Product_Design)
+<br>
+[Character Product](https://github.com/sourceduty/Character_Product)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
