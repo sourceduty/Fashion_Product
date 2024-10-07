@@ -1,4 +1,4 @@
-![Gold Bar Shoes](https://github.com/user-attachments/assets/8a79c431-0dab-41d8-8f3d-361c99b7f9d6)
+![Camo](https://github.com/user-attachments/assets/60cb78a2-efdf-47b3-9397-7c9aa700e2b3)
 
 > Create fashion product packaging, accessories and shoes using DALL-E 3.
 
