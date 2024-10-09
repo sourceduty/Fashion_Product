@@ -25,6 +25,10 @@ Confidentiality is a key aspect of Fashion Product GPT's operation. The rules an
 ![Walken Boots](https://github.com/user-attachments/assets/4c91008b-e998-41ef-ae09-e83b4bcc40cd)
 
 #
+
+![Tracked](https://github.com/user-attachments/assets/cfc88f36-08aa-4970-8f8b-9920e6bed237)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
