@@ -1,3 +1,4 @@
+![Frosted Igloo Hat](https://github.com/user-attachments/assets/7809a4b1-a689-4783-b78c-d699f9a3ba4f)
 ![Camo](https://github.com/user-attachments/assets/60cb78a2-efdf-47b3-9397-7c9aa700e2b3)
 
 > Create fashion product packaging, accessories and shoes using DALL-E 3.
