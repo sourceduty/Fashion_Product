@@ -42,6 +42,8 @@ Confidentiality is a key aspect of Fashion Product GPT's operation. The rules an
 [Character Product](https://github.com/sourceduty/Character_Product)
 <br>
 [Sea Life Fashion](https://github.com/sourceduty/Sea_Life_Fashion)
+<br>
+[Fashion School](https://github.com/sourceduty/Fashion_School)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
